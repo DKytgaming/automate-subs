@@ -4,7 +4,10 @@ import time
 import webbrowser
 
 sub = int(input("Enter how many sub you want: "))
-url = input("Enter you channel URL: ")
+
+url = str(input("Enter you channel URL: "))
+
+sb = url + "?sub_confirmation=1"
 
 for i in range(sub):
 
@@ -59,7 +62,7 @@ for i in range(sub):
     pg.moveTo(820, 65)
     pg.click()
     time.sleep(2)
-    pg.typewrite(url, "?sub_confirmation=1")
+    pg.typewrite(sb)
     pg.press('Enter')
     time.sleep(5)
     pg.moveTo(1118, 622, 3)
