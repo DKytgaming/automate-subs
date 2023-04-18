@@ -3,6 +3,7 @@ with this program you can get subscriber
 
 # Disclaimer
 - If anything happens to your channel it will not be our responsiblity
+- 50% sub drop because youtube detect half of them as bot
 
 # Requirements
 - Google Chrome
