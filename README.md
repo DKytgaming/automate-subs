@@ -16,7 +16,7 @@ with this program you can get subscriber
 # Require Library
     pip install pyautogui
     pip install webbrowser
-    pip install Random
+    pip install names
     pip install time
     
 # Proof
