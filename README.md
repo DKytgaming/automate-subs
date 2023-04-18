@@ -22,5 +22,8 @@ with this program you can get subscriber
  https://youtu.be/2admYu_JYY0
 
 # Install
-
+How to install:
+- Python: https://www.python.org/downloads/
+- watch this:
+- 
 
